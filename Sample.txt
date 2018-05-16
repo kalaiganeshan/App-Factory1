@@ -1,2 +1,3 @@
 Sample test for merge branch
 hi
+hello

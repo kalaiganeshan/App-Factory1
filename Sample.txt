@@ -1,1 +1,2 @@
 Sample file content from Patch-1
+Added content for patch-2
